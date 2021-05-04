@@ -1,5 +1,5 @@
 ## Olá, sou o Felipe! 👋
-### 📍 Moro no Rio de Janeiro, 🇧🇷
+### 📍 Moro no Rio de Janeiro, :brazil:
 
 Desde 2020 em constante prática na área de Desenvolvimento Web Full Stack, e anteriormente, envolvido em negócios e projetos de infraestrutura de TI e tecnologia em geral.
 - 🤝 Aberto a oportunidades como Desenvolvedor Web.
