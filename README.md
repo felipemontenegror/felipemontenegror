@@ -1,4 +1,4 @@
-## Olá, sou o Felipe! 👋
+## Olá, sou o Felipe Montenegro! 👋
 ### 📍 Moro no Rio de Janeiro, :brazil:
 
 💬 Desde junho de 2020, em constante evolução na área de Desenvolvimento, e anteriormente, envolvido em negócios e projetos de infraestrutura de TI e tecnologia em geral.
@@ -26,7 +26,8 @@
 ## 🔋 in continuous progress...
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=felipemontenegror&layout=compact)](https://github.com/felipemontenegror/github-readme-stats)
-[![felipemontenegror's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipemontenegror)](https://github.com/felipemontenegror/github-readme-stats)
+
+### Obrigado e fique à vontade! 😁	
 
 <!--
 **felipemontenegror/felipemontenegror** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
