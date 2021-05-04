@@ -1,10 +1,10 @@
 ## Olá, sou o Felipe! 👋
 ### 📍 Moro no Rio de Janeiro, :brazil:
 
-Desde 2020 em constante prática na área de Desenvolvimento Web Full Stack, e anteriormente, envolvido em negócios e projetos de infraestrutura de TI e tecnologia em geral.
-- 🤝 Aberto a oportunidades como Desenvolvedor Web.
+💬 Desde junho de 2020, em constante evolução na área de Desenvolvimento, e anteriormente, envolvido em negócios e projetos de infraestrutura de TI e tecnologia em geral.
+- 🤝 Aberto a novas oportunidades como Desenvolvedor Web.
 - 💻 Conhecimento em Javascript, Node, Express, MongoDB, HTML, CSS e um básico de React.
-- 💬 Atualmente, estou me dedicando a fortalecer conhecimentos de JS puro, a fim de transitar com mais facilidade pelos Frameworks, praticando Node e solidificando o front-end. 
+- 📚 Atualmente, estou me dedicando a fortalecer conhecimentos de JS puro, a fim de transitar com mais facilidade pelos Frameworks, praticando Node e solidificando o front-end. 
 
 ## 💻 Hard Skills
 
@@ -15,6 +15,7 @@ Desde 2020 em constante prática na área de Desenvolvimento Web Full Stack, e a
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongo" width="40" height="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg" alt="react" width="40" height="40" style="max-width:100%"></img>
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/npm/npm-original-wordmark.svg" alt="npm" width="40" height="40" style="max-width:100%"></img>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40" style="max-width:100%"></img>
 
