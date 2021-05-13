@@ -4,7 +4,7 @@
 Em constante evolução na área de Desenvolvimento, e anteriormente, envolvido em negócios e projetos de infraestrutura de TI e tecnologia em geral.
 
 - 🤝 Aberto a novas oportunidades como Desenvolvedor Web.
-- 💻 Conhecimento em Javascript, Node, Express, MongoDB, HTML, CSS e um básico de React.
+- 🧠 Conhecimento em Javascript, Node, Express, MongoDB, HTML, CSS e um básico de React.
 - 📚 Atualmente, estou me dedicando a fortalecer conhecimentos de JS puro, a fim de transitar com facilidade pelos Frameworks, praticando Node e solidificando o front-end. 
 - 💬 Migração realizada recentemente do GitLab para esse Github
 
