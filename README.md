@@ -1,5 +1,5 @@
 # Olá, sou o Felipe Montenegro! 👋
-### 📍 Moro no Rio de Janeiro, :brazil:
+### 📍 Moro :brazil:
 
 Em constante evolução na área de Desenvolvimento, e anteriormente, envolvido em negócios e projetos de infraestrutura de TI e tecnologia em geral.
 
